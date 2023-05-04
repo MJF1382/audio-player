@@ -25,4 +25,4 @@ export default App
 
 ![audio player image](https://github.com/MJF1382/audio-player/raw/main/images/AudioPlayer.png)
 
-**Point:** "Audio1" is the ***title***.
+**Audio1** is the ***title***.
